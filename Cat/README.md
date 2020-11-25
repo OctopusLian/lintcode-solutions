@@ -5,7 +5,7 @@
 - [1181.diameter-of-binary-tree](../Algorithms/1181.diameter-of-binary-tree)  
 - [82.single-number](../Algorithms/82.single-number)  
 - [56.two-sum](../Algorithms/56.two-sum)  
-- [area-of-trapezoid](../Algorithms/area-of-trapezoid)
+- [1776.area-of-trapezoid](../Algorithms/1776.area-of-trapezoid)
 
 ## 青铜II  
 
